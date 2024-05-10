@@ -1,0 +1,6 @@
+FROM ubunto: 16.04
+
+RUM apt install -y /
+	apache2 /
+	php /
+	libapache2.mod-php
